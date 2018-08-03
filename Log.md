@@ -26,6 +26,6 @@ Challenge from Learn Python for Data Science #2 by Siraj.
 Tweet with labels are written into csv file
 Improved data set in project #1
 
-Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/LPDS/project2-Tweeter_Sentiment.py
+Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/LPDS/project2-Twitter_Sentiment.py
 
 Thoughts - need to refresh knowledge of pandas
