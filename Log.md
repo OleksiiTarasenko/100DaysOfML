@@ -1,14 +1,31 @@
 100 Days Of ML Challenge
+
 Main Commitment
+
 I will code or study Machine Learning for at least an hour every day for the next 100 days.
+
 Start Date
+
 August 3th, 2018.
 
 0 day. Seting up things.
-Todays progress: Done Challenge from Learn Python for Data Science #1 by Siraj
-                      Added to demo.py 3 more classifiers (SVM, Logistic Regression and kNN)
-		      Training data set changed to lager data set.
-                      
+
+Todays progress:
+Done:
+Challenge from Learn Python for Data Science #1 by Siraj.
+Added to demo.py 3 more classifiers (SVM, Logistic Regression and kNN)
+
+Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/Learn_Python_for_Data_Science/project1-Male_or_Female.py  
+                   
 Thoughts -  So far so good. Need more data in demo.py(will find csv file, parse it, train model again)  
 
 1 day. 
+Todays progress:
+Done:
+Challenge from Learn Python for Data Science #2 by Siraj.
+Tweet with labels are written into csv file
+Improved data set in project #1
+
+Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/Learn_Python_for_Data_Science/project2-Tweeter_Sentiment.py
+
+Thoughts - need to refresh knowledge of pandas
