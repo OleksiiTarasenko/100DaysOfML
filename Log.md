@@ -15,7 +15,7 @@ Done:
 Challenge from Learn Python for Data Science #1 by Siraj.
 Added to demo.py 3 more classifiers (SVM, Logistic Regression and kNN)
 
-Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/Learn_Python_for_Data_Science/project1-Male_or_Female.py  
+Link https://github.com/OleksiiTarasenko/100DaysOfML/blob/master/LPDS/project1-Male_or_Female.py  
                    
 Thoughts -  So far so good. Need more data in demo.py(will find csv file, parse it, train model again)  
 
@@ -26,6 +26,6 @@ Challenge from Learn Python for Data Science #2 by Siraj.
 Tweet with labels are written into csv file
 Improved data set in project #1
 
-Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/Learn_Python_for_Data_Science/project2-Tweeter_Sentiment.py
+Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/LPDS/project2-Tweeter_Sentiment.py
 
 Thoughts - need to refresh knowledge of pandas
