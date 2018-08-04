@@ -8,7 +8,7 @@ Start Date
 
 August 3th, 2018.
 
-0 day. Seting up things.
+Day 0. Seting up things.
 
 Todays progress:
 
@@ -20,9 +20,10 @@ Link https://github.com/OleksiiTarasenko/100DaysOfML/blob/master/LPDS/project1-M
                    
 Thoughts -  So far so good. Need more data in demo.py(will find csv file, parse it, train model again)  
 
-1 day. 
+Day 1. 
 
 Todays progress:
+
 Done:
 Challenge from Learn Python for Data Science #2 by Siraj.
 Tweet with labels are written into csv file
@@ -31,3 +32,18 @@ Improved data set in project #1
 Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/LPDS/project2-Twitter_Sentiment.py
 
 Thoughts - need to refresh knowledge of pandas
+
+Day 2.
+
+Todays progress:
+
+Done: 
+Challenge from Learn Python for Data Science #3 by Siraj.
+Used 4  models with different loss functions. printed only 
+
+Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/LPDS/project3-Recomendation_system-chalenge-task2.py
+
+Thoughts:
+
+ Got troubles installing lightfm. Helped -> conda install -c conda-forge lightfm
+ TODO - Task 1. Create own parser for data base.
