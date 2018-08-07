@@ -47,3 +47,15 @@ Thoughts:
 
  Got troubles installing lightfm. Helped -> conda install -c conda-forge lightfm
  TODO - Task 1. Create own parser for data base.
+
+ Day 3
+
+ Todays progress:
+
+ Started UCSanDiegoX: DSE200x Python for Data Science. Done Week 1 and
+
+
+ Day 4
+
+ Todays:
+ Done Week 3 and 4
