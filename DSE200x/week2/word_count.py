@@ -1,7 +1,7 @@
 import zipfile
 import os
 import collections
-import sys  
+
 
 
 file = zipfile.ZipFile('word_cloud.zip')
@@ -16,7 +16,7 @@ word_cloud_content = str(word_cloud_content).lower().split(' ')
 
 stop_file = open('stopwords', 'r')
 stop_words = stop_file.read()
-
+stop_file.close()
 c = collections.Counter()
 for word in word_cloud_content:
 	word = word.replace(".",'')
