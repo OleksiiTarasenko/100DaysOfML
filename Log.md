@@ -52,8 +52,10 @@ Thoughts:
 
  Todays progress:
 
- Started UCSanDiegoX: DSE200x Python for Data Science. Done Week 1 and
+ Started UCSanDiegoX: DSE200x Python for Data Science. Done Week 1 and 2
 
+ Link 
+https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/DSE200x/week2
 
  Day 4
 
