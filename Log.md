@@ -59,5 +59,16 @@ https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/DSE200x/week2
 
  Day 4
 
- Todays:
- Done Week 3 and 4
+ Todays progress:
+ Done Week 3 and 4 of DSE200x Python for Data Science
+
+
+ Day 5
+
+ Todays progress:
+ Done Week 5 of DSE200x Python for Data Science
+
+ Day 6
+
+ Todays progress:
+ Explored Linear regression and kNN with sentdex
