@@ -39,7 +39,7 @@ Todays progress:
 
 Done: 
 Challenge from Learn Python for Data Science #3 by Siraj.
-Used 4  models with different loss functions. printed only 
+Used 4  models with different loss functions. Printed only best result
 
 Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/LPDS/project3-Recomendation_system-chalenge-task2.py
 
@@ -72,3 +72,35 @@ https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/DSE200x/week2
 
  Todays progress:
  Explored Linear regression and kNN with sentdex
+
+ Day 7
+
+ Todays progress:
+ Learned Support vector machine
+
+ Day 8
+
+ Todays progress:
+ Continue exploring Support vector machine with MIT 6.034 Artificial Intelligence
+
+ Day 9
+
+ Todays progress:
+
+ Learned about boosting from MIT 6.034 Artificial Intelligence
+ Learned seaborn documentation
+
+ Day 10
+
+ Todays progress:
+
+ Learned Kaggle's Scikit-Learn ML from Start to Finish
+
+Thoughts: Need to experiment with different classificators.
+
+Day 11
+
+Todays progress:
+
+Learned  how to import data in Google Colaboratory, Kaggle Ensembling Guide
+
