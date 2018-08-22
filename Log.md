@@ -148,3 +148,5 @@ Todays progress: Learned Naive Bayes from intro to Machine Learning by Udacity
 Day 19 
 
 Todays progress: Done Week 1 project on Enron mail Classifier
+
+Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/udacity/naive_bayes
