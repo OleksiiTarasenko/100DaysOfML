@@ -81,7 +81,7 @@ https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/DSE200x/week2
  Day 8
 
  Todays progress:
- Continue exploring Support vector machine with MIT 6.034 Artificial Intelligence
+ Continue exploring Support vector machine with MIT 6.034 Artificial Intelligence lecture 16
 
  Day 9
 
@@ -104,3 +104,47 @@ Todays progress:
 
 Learned  how to import data in Google Colaboratory, Kaggle Ensembling Guide
 
+
+Day 12
+
+Todays progress:
+
+Examined main algorithms of ML from Machine Learning Algorithms Mini-Course by Jason Brownlee
+
+Day 13
+
+Todays progress: Learned Types of classification algorithms in Machine Learning
+Started project on naive ensembling of several classifiers by voting on results.
+
+
+Day 14
+
+Todays progress:Made my first submit to Kaggle Titanic competition. Score .76076.
+
+Link: https://www.kaggle.com/submissions/8182354/8182354.zip
+
+Thoughts: Need to do much better research on model of classification.
+
+Day 15
+
+Todays progress:
+Done Week 7 of DSE200x Python for Data Science
+
+
+Day 16
+
+Todays progress:
+Made some improvements to titanic competiton model
+Started kaggle competition Home Credit Default Risk
+
+Day 17
+
+Todays progress: Started intro to Machine Learning by Udacity
+
+Day 18
+
+Todays progress: Learned Naive Bayes from intro to Machine Learning by Udacity
+
+Day 19 
+
+Todays progress: Done Week 1 project on Enron mail Classifier
