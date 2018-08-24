@@ -150,3 +150,9 @@ Day 19
 Todays progress: Done Week 1 project on Enron mail Classifier
 
 Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/udacity/naive_bayes
+
+Day 20 
+
+Todays progress: Done Week 2 project on Enron mail Support Vector Machine Classifier 
+
+Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/udacity/svm
