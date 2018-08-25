@@ -147,12 +147,26 @@ Todays progress: Learned Naive Bayes from intro to Machine Learning by Udacity
 
 Day 19 
 
-Todays progress: Done Week 1 project on Enron mail Classifier
+Todays progress: Done Lesson 1 project on Enron mail Classifier
 
 Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/udacity/naive_bayes
 
 Day 20 
 
-Todays progress: Done Week 2 project on Enron mail Support Vector Machine Classifier 
+Todays progress: Done Lesson 2 project on Enron mail Support Vector Machine Classifier 
 
 Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/udacity/svm
+
+Day 21
+
+
+Todays progress: Done Lesson 3 project on Enron mail Decision Tree Classifier 
+
+Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/udacity/decision_tree
+
+Day 22
+
+
+Todays progress: Done Lesson 4 project on Enron mail Ada Boost 
+
+Link https://github.com/OleksiiTarasenko/100DaysOfML/tree/master/udacity/choose_your_own
